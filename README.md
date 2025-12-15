@@ -4,7 +4,7 @@ A powerful GenAI application that transforms long-form content into platform-spe
 
 ## Features
 
-- 🤖 **AI-Powered Content Generation** using OpenAI GPT-4o or Anthropic Claude
+- 🤖 **AI-Powered Content Generation** using OpenAI GPT-5 mini or Anthropic Claude 3.5 Haiku
 - 📱 **Multi-Platform Support**: LinkedIn, Twitter/X, Instagram, Facebook
 - 🚀 **Instant Posting** directly to social media platforms
 - 📅 **Scheduled Posting** for optimal timing
@@ -15,7 +15,7 @@ A powerful GenAI application that transforms long-form content into platform-spe
 
 - **Frontend**: Streamlit
 - **Orchestration**: LangChain
-- **LLM**: OpenAI GPT-4o / Anthropic Claude
+- **LLM**: OpenAI GPT-5 mini / Anthropic Claude 3.5 Haiku
 - **Language**: Python 3.11+
 - **Social Media Integration**: MCP Social Media Manager
 

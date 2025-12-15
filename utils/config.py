@@ -69,7 +69,7 @@ class Config:
             
             from langchain_openai import ChatOpenAI
             return ChatOpenAI(
-                model="gpt-4o",
+                model="gpt-5-mini",
                 temperature=0.7,
                 api_key=cls.OPENAI_API_KEY
             )
@@ -80,7 +80,7 @@ class Config:
             
             from langchain_anthropic import ChatAnthropic
             return ChatAnthropic(
-                model="claude-3-5-sonnet-20241022",
+                model="claude-3-5-haiku-20241022",
                 temperature=0.7,
                 api_key=cls.ANTHROPIC_API_KEY
             )
