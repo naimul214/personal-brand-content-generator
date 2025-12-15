@@ -23,7 +23,7 @@ A powerful GenAI application that transforms long-form content into platform-spe
 
 1. **Clone the repository**
 ```bash
-cd content-generator
+cd personal-brand-content-generator
 ```
 
 2. **Create virtual environment**
